@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Insomnia",
+      "description": "I can't sleep",
+      "id": 1
+    },
+    {
+      "title": "Whatchu waiting for",
+      "description": "What's taking you so long",
+      "id": 2
+    }
+  ]
+}
